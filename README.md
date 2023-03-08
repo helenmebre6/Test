@@ -6,3 +6,5 @@ This repository is about helen's big challenge.
 ### but with God help she was able to pass it.
 
 Now Helen is happy and crazy.
+IMG_6527.jpeg
+![alt text](IMG_6527.jpeg)
